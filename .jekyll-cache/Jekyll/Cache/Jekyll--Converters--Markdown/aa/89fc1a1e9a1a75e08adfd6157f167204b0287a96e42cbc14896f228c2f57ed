@@ -1,9 +1,5 @@
----
-layout: cv
-title: WZH's CV
----
-# Zihan Wang
-Bioinformatics PhD and data scientist
+I"�#<h1 id="zihan-wang">Zihan Wang</h1>
+<p>Bioinformatics PhD and data scientist</p>
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">ben@blm.io</a>
@@ -13,26 +9,25 @@ Bioinformatics PhD and data scientist
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a> -->
 </div>
 
+<h2 id="currently">Currently</h2>
 
-## Currently
+<p>I’m a Bioinformatics Scientist at <a href="http://www.illumina.com/">Illumina</a>, based at their R&amp;D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.</p>
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+<h2 id="employment">Employment</h2>
 
-## Employment
+<p><code class="highlighter-rouge">2015-</code> 
+<strong>Illumina, Inc.</strong> Bioinformatics scientist (data scientist and statistical programmer)</p>
 
-`2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+<h2 id="education">Education</h2>
 
-## Education
+<p><code class="highlighter-rouge">2012-15</code>
+<strong>University of Edinburgh</strong> Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled <em>Unravelling higher order chromatin organisation through statistical analysis</em> and is available through the <a href="https://www.era.lib.ed.ac.uk/handle/1842/22906">Edinburgh Research Archive</a>.</p>
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+<p><code class="highlighter-rouge">2011-12</code>
+<strong>Imperial College London</strong> MSc Bioinformatics and Theoretical Systems Biology (<em>Distinction</em>)</p>
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
-
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+<p><code class="highlighter-rouge">2008-11</code>
+<strong>University of York</strong> BSc Biology (<em>First class honours</em>)</p>
 
 <!-- ## Presentations
 
@@ -70,28 +65,27 @@ _Genome informatics_ (CSHL NY, USA)
 
 _EpiGeneSys_ (Cambridge, UK) -->
 
-
-## Publications
+<h2 id="publications">Publications</h2>
 
 <!-- ### Journals -->
-`2017`
-Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6: e28590.
+<p><code class="highlighter-rouge">2017</code>
+Peluso S, Douglas A, Hill A, De Angelis C, <strong>Moore BL</strong> <em>et al.</em> Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. <em>eLife</em>, 6: e28590.</p>
 
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
+<p>Eberle MA, Fritzilas E, Krusche P, Källberg M, <strong>Moore BL</strong> <em>et al.</em> A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. <em>Genome Research</em>, 27:157-164.</p>
 
-`2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
+<p><code class="highlighter-rouge">2016</code>
+Yu N, Nützmann H-W, MacDonald JT, <strong>Moore B</strong> <em>et al.</em> Delineation of metabolic gene clusters in plant genomes by chromatin signatures. <em>Nucleic Acids Research</em>, 44(5):2255-2265.</p>
 
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
+<p><code class="highlighter-rouge">2015</code>
+<strong>Moore BL</strong> <em>et al.</em> Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. <em>Genome Biology</em>, 16:110.</p>
 
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
+<p>Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, <strong>Moore BL</strong> <em>et al.</em> Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. <em>Molecular systems biology</em>, 11:852.</p>
 
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
+<p><code class="highlighter-rouge">2013</code>
+<strong>Moore BL</strong> <em>et al.</em> High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. <em>Journal of computational chemisty</em>, 34(22):1881-9.</p>
 
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
+<p><code class="highlighter-rouge">2011</code>
+Gardner PP, Daub J, Tate J, <strong>Moore BL</strong> <em>et al.</em> Rfam: Wikipedia, clans and the “decimal” release. <em>Nucleic acids research</em>, 39(S1):D141-5.</p>
 
 <!-- ## Non-academic
 
@@ -114,13 +108,14 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 * Docker -->
 <!-- * AWS -->
 
-## Research interests
+<h2 id="research-interests">Research interests</h2>
 
-* Knowledge graph
-* Representation learning
-* Rule learning 
-* Graph neural network
-
+<ul>
+  <li>Knowledge graph</li>
+  <li>Representation learning</li>
+  <li>Rule learning</li>
+  <li>Graph neural network</li>
+</ul>
 
 <!-- ## Projects
 
@@ -140,21 +135,21 @@ I co-founded a usergroup for the R programming language in Edinburgh called Edin
 
 I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account. -->
 
-## Awards
+<h2 id="awards">Awards</h2>
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+<p>MRC Capacity building scholarship (PhD fees + enhanced stipend)</p>
 
-MRC Full postgraduate scholarship (MSc fees + stipend)
+<p>MRC Full postgraduate scholarship (MSc fees + stipend)</p>
 
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
+<p>ISCB computational biology Wikipedia competition 2013 (<a href="http://dx.doi.org/10.1371/journal.pcbi.1003242">doi:10.1371/journal.pcbi.1003242</a>; 2nd place)</p>
 
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
+<p>Imperial Create Lab’s “Summer data challenge” (<a href="http://summerdatachallenge.com">summerdatachallenge.com</a>; 3rd place)</p>
 
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
+<p>Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014</p>
 
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
+<p>Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation</p>
 
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+<p>Front cover design selected for J. Comp. Chem. (34:22) (<a href="http://dx.doi.org/10.1002/jcc.23388">doi:10.1002/jcc.23388</a>)</p>
 
 <!-- ## Placements
 
@@ -183,3 +178,4 @@ Available on request. -->
 <!-- ### Footer
 
 Last updated: May 2013 -->
+:ET
