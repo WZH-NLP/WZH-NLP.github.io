@@ -82,6 +82,12 @@ _In Proceedings of the Eleventh ACM International Conference on Web Search and D
 [[PDF](https://dl.acm.org/doi/abs/10.1145/3159652.3159710)]
 
 
+### **Variational random function model for network modeling.**
+Zenglin Xu, Bin Liu, Shandian Zhe, Haoli Bai, **Zihan Wang**, Jennifer Neville
+_IEEE transactions on neural networks and learning systems_<br>
+
+
+
 ## Working Experience
 Research Intern in the Data Science Lab at JD.com. `Beijing, China, 2016-2017` <br>
 Research Intern in the DAMO at Alibaba Group. `Beijing, China, 2020` <br>
