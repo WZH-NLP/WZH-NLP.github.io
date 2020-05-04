@@ -83,7 +83,7 @@ _In Proceedings of the Eleventh ACM International Conference on Web Search and D
 
 
 ### **Variational random function model for network modeling.**
-Zenglin Xu, Bin Liu, Shandian Zhe, Haoli Bai, **Zihan Wang**, Jennifer Neville
+Zenglin Xu, Bin Liu, Shandian Zhe, Haoli Bai, **Zihan Wang**, Jennifer Neville <br>
 _IEEE transactions on neural networks and learning systems_<br>
 
 
