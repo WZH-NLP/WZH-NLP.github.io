@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Zihan Wang
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  # url: mailto:woden@cs.cmu.edu
+  text: zihanwang.sdu@gmail.com
+# homepage:
+#   url: http://cs.cmu.edu/~woden
+#   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# **Zihan Wang (王梓涵)**
 
 <!--
 include contact information from the front matter
@@ -20,6 +20,9 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
+
+## Currently
+
 
 ## Education
 
@@ -52,7 +55,7 @@ Carlisle, PA
 
 ## Publications
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**](assets/chi-20-natural-diagramming.pdf)
+### **How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**
 
 Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
 <i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
@@ -88,7 +91,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 
 ----
-
+<!-- 
 ## Experience
 
 ### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
@@ -104,22 +107,22 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 ### **AsiaInfo** `2015.6 - 2015.8`
 
 _Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+Worked on server-side web applications and server deployment tools. -->
 
-## Mentoring
+<!-- ## Mentoring
 
 Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br> -->
 
-## Teaching
+<!-- ## Teaching
 
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
 Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
 Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+Computer Lab Consultant `Dickinson, 2014 - 2016` <br> -->
 
-## Honors & Awards
+## Awards
 
 CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
 Phi Beta Kappa `Dickinson, 2018` <br>
@@ -132,9 +135,9 @@ Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
 
-## Service
+<!-- ## Service
 
-Research Experiences for Undergraduates in Software Engineering (REUSE) Admission Committee `CMU, 2019 - 2020`
+Research Experiences for Undergraduates in Software Engineering (REUSE) Admission Committee `CMU, 2019 - 2020` -->
 
 <!-- ### Footer
 

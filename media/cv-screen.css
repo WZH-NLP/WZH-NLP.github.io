@@ -132,7 +132,7 @@ table {
 
 body {
   font: normal normal 400;
-  font-size: 120%;
+  font-size: 100%;
   line-height: 1.5em;
   /*also written as...  font: normal normal 400 100%/1.5em;*/
   font-family: "Helvetica", sans-serif;
@@ -157,10 +157,10 @@ h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
   /* font-size: 50pt; */
-  font-size: 600%;
+  font-size: 300%;
   font-weight: lighter;
   position: relative;
-  line-height: 1.2em;
+  line-height: 1.5em;
   position: relative;
   /* left: 28%; */
 }
