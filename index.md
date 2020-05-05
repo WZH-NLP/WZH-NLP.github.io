@@ -105,6 +105,7 @@ Research Intern in the DAMO at Alibaba Group. `Beijing, China, 2020` <br>
 <!-- * <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a> -->
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0003-0493-2668">ORCiD</a>
 * [Information Retrieval Lab, Shandong University](http://ir.sdu.edu.cn/index_en.htm)
+* [ReaserchGate](https://www.researchgate.net/profile/Zihan_Wang28)
 <!-- * <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a> -->
 <!-- Phi Beta Kappa `Dickinson, 2018` <br>
 Excellence in Computer Science Award `Columbia, 2018` <br>
