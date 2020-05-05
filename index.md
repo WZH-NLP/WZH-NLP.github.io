@@ -91,6 +91,21 @@ _IEEE transactions on neural networks and learning systems (TKDE 2018)._<br>
 ## Working Experience
 Research Intern in the Data Science Lab at JD.com. `Beijing, China, 2016-2017` <br>
 Research Intern in the DAMO at Alibaba Group. `Beijing, China, 2020` <br>
+
+
+
+## Links
+<!-- fa are fontawesome, ai are academicons -->
+<!-- * <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
+* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
+* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a> -->
+<!-- * <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br /> -->
+<!-- * <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a> -->
+* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0003-0493-2668">ORCiD</a>
+* [Information Retrieval Lab, Shandong University](http://ir.sdu.edu.cn/index_en.htm)
+<!-- * <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a> -->
 <!-- Phi Beta Kappa `Dickinson, 2018` <br>
 Excellence in Computer Science Award `Columbia, 2018` <br>
 Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
