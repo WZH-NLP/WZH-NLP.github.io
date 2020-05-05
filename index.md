@@ -102,7 +102,7 @@ Research Intern in the DAMO at Alibaba Group. `Beijing, China, 2020` <br>
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
 * <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a> -->
 <!-- * <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br /> -->
-<!-- * <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a> -->
+* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=npvYA9MAAAAJ&view_op=list_works&gmla=AJsN-F4468W1fpZqg4XP3QyOhzTFP1FG-SGGfg6YQW5u1YtDhqlAzvP0JQEsijvRdN91QgnMZBkCStJy0UUCKYsJk_1Nx42s9FnOo9yZ4kp4u5e_28cpCy0">Google scholar</a>
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0003-0493-2668">ORCiD</a>
 * [Information Retrieval Lab, Shandong University](http://ir.sdu.edu.cn/index_en.htm)
 * [ReaserchGate](https://www.researchgate.net/profile/Zihan_Wang28)
