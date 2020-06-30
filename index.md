@@ -23,7 +23,7 @@ Supported arguments:
 
 ## Education
 
-### **Shangdong University** `2020.9 -`
+### **Shandong University** `2020.9 -`
 
 ```
 Qingdao, China
