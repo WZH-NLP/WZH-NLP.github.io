@@ -67,7 +67,7 @@ _In Proceedings of the 29th ACM International Conference on Information and Know
 
 ### **Robust Embedding with Multi-Level Structures for Link Prediction**
 
-**Zihan Wang**, [Zhaochun Ren](http://ir.sdu.edu.cn/~zhaochunren/), Chunyu He, Peng Zhang and Yue Hu<br>
+**Zihan Wang**, [Zhaochun Ren](http://ir.sdu.edu.cn/~zhaochunren/), Chunyu He, Peng Zhang, Yue Hu<br>
 _In Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)._<br>
 [[PDF](https://www.ijcai.org/Proceedings/2019/0728.pdf)]
 <!-- [[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)] -->
