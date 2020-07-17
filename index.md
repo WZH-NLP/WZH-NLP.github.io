@@ -62,7 +62,7 @@ Natural Language Processing <br>
 ## Publications
 
 ### **VN Network: Embedding Newly Emerging Entities with Virtual Neighbors**
-Yongquan He, **Zihan Wang**, Peng Zhang, Zhaopeng Tu, Zhaochun Ren<br>
+Yongquan He, **Zihan Wang**, Peng Zhang, [Zhaopeng Tu](http://www.zptu.net/), Zhaochun Ren<br>
 _In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM 2020)._<br>
 
 ### **Robust Embedding with Multi-Level Structures for Link Prediction**
