@@ -94,7 +94,7 @@ _IEEE transactions on neural networks and learning systems (TNNLS 2018)._<br>
 
 ## Working Experience
 Research Intern in the Data Science Lab at JD.com. `Beijing, China, 2016-2017` <br>
-Research Intern in the DAMO at Alibaba Group. `Hangzhou, China, 2020` <br>
+Research Intern in the DAMO Academy at Alibaba Group. `Hangzhou, China, 2020` <br>
 
 
 
