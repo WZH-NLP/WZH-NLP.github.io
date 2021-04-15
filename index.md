@@ -60,7 +60,7 @@ Natural Language Processing <br>
 
 
 ## Publications
-### **Cross-Domain Contract Element Extraction with aBi-directional Feedback Clause-Element Relation Network**
+### **Cross-Domain Contract Element Extraction with a Bi-directional Feedback Clause-Element Relation Network**
 **Zihan Wang**, Hongye Song, Zhaochun	Ren, Pengjie	Ren, Zhumin	Chen, Xiaozhong	Liu, Hongsong	Li, Maarten	de Rijke<br>
 _In Proceedings of the 44th International ACM SIGIR Conferenceon Research and Development in Information Retrieval (SIGIR 2021)._<br>
 
