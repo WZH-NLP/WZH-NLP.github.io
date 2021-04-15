@@ -61,12 +61,15 @@ Natural Language Processing <br>
 
 ## Publications
 ### **Cross-Domain Contract Element Extraction with a Bi-directional Feedback Clause-Element Relation Network**
+
 **Zihan Wang**, Hongye Song, Zhaochun	Ren, Pengjie	Ren, Zhumin	Chen, Xiaozhong	Liu, Hongsong	Li, Maarten	de Rijke<br>
 _In Proceedings of the 44th International ACM SIGIR Conferenceon Research and Development in Information Retrieval (SIGIR 2021)._<br>
 
 ### **VN Network: Embedding Newly Emerging Entities with Virtual Neighbors**
+
 Yongquan He, **Zihan Wang**, Peng Zhang, [Zhaopeng Tu](http://www.zptu.net/), Zhaochun Ren<br>
 _In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM 2020)._<br>
+[[PDF](https://dl.acm.org/doi/10.1145/3340531.3411865)]
 
 ### **Robust Embedding with Multi-Level Structures for Link Prediction**
 
