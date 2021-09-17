@@ -64,6 +64,8 @@ Natural Language Processing <br>
 
 **Zihan Wang**, Hongye Song, Zhaochun	Ren, Pengjie	Ren, Zhumin	Chen, Xiaozhong	Liu, Hongsong	Li, Maarten	de Rijke<br>
 _In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)._<br>
+[[PDF](https://arxiv.org/abs/2105.06083)]
+
 
 ### **VN Network: Embedding Newly Emerging Entities with Virtual Neighbors**
 
