@@ -61,7 +61,7 @@ Natural Language Processing <br>
 
 ## Publications
 ### **Membership Inference Attacks Against Recommender Systems**
-Minxing Zhang*, Zhaochun Ren*, **Zihan Wang***, Pengjie Ren, Zhumin Chen, Pengfei Hu, Yang Zhang<br>
+Minxing Zhang\*, Zhaochun Ren\*, **Zihan Wang\***, Pengjie Ren, Zhumin Chen, Pengfei Hu, Yang Zhang<br>
 _In The ACM Conference on Computer and Communications Security (CCS 2021)._<br>
 [[PDF](https://arxiv.org/abs/2109.08045)]
 
