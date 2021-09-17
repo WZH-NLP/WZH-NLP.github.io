@@ -60,6 +60,12 @@ Natural Language Processing <br>
 
 
 ## Publications
+### **Membership Inference Attacks Against Recommender Systems**
+Minxing Zhang*, Zhaochun Ren*, **Zihan Wang***, Pengjie Ren, Zhumin Chen, Pengfei Hu, Yang Zhang<br>
+_In The ACM Conference on Computer and Communications Security (CCS 2021)._<br>
+[[PDF](https://arxiv.org/abs/2109.08045)]
+
+
 ### **Cross-Domain Contract Element Extraction with a Bi-directional Feedback Clause-Element Relation Network**
 
 **Zihan Wang**, Hongye Song, Zhaochun	Ren, Pengjie	Ren, Zhumin	Chen, Xiaozhong	Liu, Hongsong	Li, Maarten	de Rijke<br>
