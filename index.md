@@ -52,6 +52,7 @@ Chengdu, China
 - B.S. in Computer Science
 
 ## Reaserch Interests
+Membership inference attack <br>
 Knowledge graph <br>
 Graph neural network <br>
 Representation learning <br>
@@ -63,7 +64,7 @@ Natural Language Processing <br>
 ### **Improving Legal Judgment Prediction through Reinforced Criminal Element Extraction**
 
 Yougang Lv, **Zihan Wang**, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Yujun Li, Hongsong Li, Hongye Song<br>
-_Information processing & management (IPM 2021)._<br>
+_Information processing and management (IPM 2021)._<br>
 
 
 ### **Membership Inference Attacks Against Recommender Systems**
