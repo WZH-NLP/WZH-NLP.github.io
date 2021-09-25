@@ -62,7 +62,7 @@ Natural Language Processing <br>
 ## Publications
 ### **Improving Legal Judgment Prediction through Reinforced Criminal Element Extraction**
 
-Yougang lv, **Zihan Wang**, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Yujun Li, Hongsong Li, Hongye Song<br>
+Yougang Lv, **Zihan Wang**, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Yujun Li, Hongsong Li, Hongye Song<br>
 _Information processing & management (IPM 2021)._<br>
 
 
