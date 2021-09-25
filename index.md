@@ -61,6 +61,13 @@ Natural Language Processing <br>
 
 ## Publications
 ### **Membership Inference Attacks Against Recommender Systems**
+
+Yougang lv, Zihan Wang, **Zihan Wang**, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Yujun Li, Hongsong Li, Hongye Song<br>
+_Information processing \& management (IPM 2021)._<br>
+
+
+### **Membership Inference Attacks Against Recommender Systems**
+
 Minxing Zhang\*, Zhaochun Ren\*, **Zihan Wang\***, Pengjie Ren, Zhumin Chen, Pengfei Hu, Yang Zhang<br>
 _In The ACM Conference on Computer and Communications Security (CCS 2021)._<br>
 [[PDF](https://arxiv.org/abs/2109.08045)]
