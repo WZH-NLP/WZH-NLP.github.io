@@ -61,6 +61,11 @@ Natural Language Processing <br>
 
 
 ## Publications
+### **Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**
+
+**Zihan Wang**, Kai Zhao, Yongquan He, Zhumin Chen, Pengjie Ren, Maarten de Rijke, Zhaochun Ren<br>_In 32nd ACM International Conference on Information and Knowledge Management (CIKM 2022)_<br>
+[[PDF](https://arxiv.org/pdf/2305.10531.pdf)]
+
 ### **Debiasing learning for membership inference attacks against recommender systems**
 
 **Zihan Wang**, Na Huang, Fei Sun, Pengjie Ren, Zhumin Chen, Hengliang Luo, Maarten de Rijke, Zhaochun Ren<br>_In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022)_<br>
