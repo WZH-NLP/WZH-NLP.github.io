@@ -71,6 +71,11 @@ Natural Language Processing <br>
 
 
 ## Publications
+### **Generalizing Few-Shot Named Entity Recognizers to Unseen Domains with Type-Related Features**
+
+**Zihan Wang**, Ziqi Zhao, Zhumin Chen, Pengjie Ren, Maarten de Rijke, Zhaochun Ren<br>_In Findings of the Association for Computational Linguistics: EMNLP 2023_<br>
+[[PDF](https://arxiv.org/pdf/2310.09846.pdf)]
+
 ### **Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**
 
 **Zihan Wang**, Kai Zhao, Yongquan He, Zhumin Chen, Pengjie Ren, Maarten de Rijke, Zhaochun Ren<br>_In 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)_<br>
