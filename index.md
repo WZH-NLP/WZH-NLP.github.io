@@ -23,6 +23,16 @@ Supported arguments:
 
 ## Education
 
+### **University of Amsterdam** `2022 -`
+
+```
+Amsterdam, The Netherlands
+```
+
+- Ph.D. in Computer Science
+- Supervised by [__Maarten de Rijke__](https://staff.fnwi.uva.nl/m.derijke/) 
+- Information extraction
+
 ### **Shandong University** `2020.9 -`
 
 ```
@@ -31,7 +41,7 @@ Qingdao, China
 
 - Ph.D. in Computer Science
 - Supervised by [__Zhaochun Ren__](http://ir.sdu.edu.cn/~zhaochunren/) 
-- Natural language processing, Representation learning, Knowledge graph
+- Natural language processing, Recommender system, Knowledge graph
 
 ### **Institute of Information Engineering, Chinese Academy of Sciences** `2017.9 - 2020.6`
 
