@@ -30,7 +30,7 @@ Amsterdam, The Netherlands
 ```
 
 - Ph.D. in Computer Science
-- Supervised by [__Maarten de Rijke__](https://staff.fnwi.uva.nl/m.derijke/) 
+- Supervised by [__Maarten de Rijke__](https://staff.fnwi.uva.nl/m.derijke/) and [__Zhaochun Ren__](http://ir.sdu.edu.cn/~zhaochunren/)  
 - Information extraction
 
 ### **Shandong University** `2020.9 -`
