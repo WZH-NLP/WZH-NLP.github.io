@@ -76,6 +76,10 @@ Natural Language Processing <br>
 **Zihan Wang**, Ziqi Zhao, Zhumin Chen, Pengjie Ren, Maarten de Rijke, Zhaochun Ren<br>_In Findings of the Association for Computational Linguistics: EMNLP 2023_<br>
 [[PDF](https://arxiv.org/pdf/2310.09846.pdf)]
 
+### **Multi-Defendant Legal Judgment Prediction via Hierarchical Reasoning**
+
+Yougang Lyu, Jitai Hao, **Zihan Wang**, Kai Zhao, Shen Gao, Pengjie Ren, Zhumin Chen, Fang Wang, Zhaochun Ren <br>_In Findings of the Association for Computational Linguistics: EMNLP 2023_<br>
+
 ### **Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**
 
 **Zihan Wang**, Kai Zhao, Yongquan He, Zhumin Chen, Pengjie Ren, Maarten de Rijke, Zhaochun Ren<br>_In 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)_<br>
