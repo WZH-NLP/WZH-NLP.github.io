@@ -61,6 +61,11 @@ Natural Language Processing <br>
 
 
 ## Publications
+### **Debiasing learning for membership inference attacks against recommender systems**
+
+**Zihan Wang**, Na Huang, Fei Sun, Pengjie Ren, Zhumin Chen, Hengliang Luo, Maarten de Rijke, Zhaochun Ren<br>_In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022)_<br>
+[[PDF](https://arxiv.org/pdf/2206.12401.pdf)]
+
 ### **Improving Legal Judgment Prediction through Reinforced Criminal Element Extraction**
 
 Yougang Lv, **Zihan Wang**, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Yujun Li, Hongsong Li, Hongye Song<br>
