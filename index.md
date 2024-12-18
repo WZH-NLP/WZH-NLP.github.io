@@ -33,16 +33,6 @@ Amsterdam, The Netherlands
 - Supervised by [__Maarten de Rijke__](https://staff.fnwi.uva.nl/m.derijke/) and [__Zhaochun Ren__](http://ir.sdu.edu.cn/~zhaochunren/)  
 - Information extraction
 
-### **Shandong University** `2020.9 -`
-
-```
-Qingdao, China
-```
-
-- Ph.D. in Computer Science
-- Supervised by [__Zhaochun Ren__](http://ir.sdu.edu.cn/~zhaochunren/) 
-- Natural language processing, Recommender system, Knowledge graph
-
 ### **Institute of Information Engineering, Chinese Academy of Sciences** `2017.9 - 2020.6`
 
 ```
