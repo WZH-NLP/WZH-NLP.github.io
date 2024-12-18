@@ -9,7 +9,7 @@ email:
 #   text: cs.cmu.edu/~woden
 ---
 
-# **Zihan Wang (王梓涵)**
+# **Zihan Wang**
 
 <!--
 include contact information from the front matter
