@@ -23,33 +23,33 @@ Supported arguments:
 
 ## Education
 
-### **University of Amsterdam** `2022 -`
+### **University of Amsterdam** 
 
 ```
 Amsterdam, The Netherlands
 ```
 
-- Ph.D. in Computer Science
+- Ph.D. in Computer Science (2024)
 - Supervised by [__Maarten de Rijke__](https://staff.fnwi.uva.nl/m.derijke/) and [__Zhaochun Ren__](http://ir.sdu.edu.cn/~zhaochunren/)  
 - Information extraction
 
-### **Institute of Information Engineering, Chinese Academy of Sciences** `2017.9 - 2020.6`
+### **Chinese Academy of Sciences**
 
 ```
 Beijing, China
 ```
 
-- M.S. in Cyber Security
+- M.S. in Cyber Security (2020)
 - Supervised by __Yue Hu__
 - Knowledge graph, Natural Language Processing
 
-### **University of Electronic Science and Technology of China** `2013.9 - 2017.6`
+### **University of Electronic Science and Technology of China**
 
 ```
 Chengdu, China
 ```
 
-- B.S. in Computer Science
+- B.S. in Computer Science (2017)
 
 ## Reaserch Interests
 Membership inference attack <br>
