@@ -29,7 +29,7 @@ Supported arguments:
 Amsterdam, The Netherlands
 ```
 
-- Ph.D. in Computer Science (2024)
+- Ph.D. in Information Science (2024)
 - Supervised by [__Maarten de Rijke__](https://staff.fnwi.uva.nl/m.derijke/) and [__Zhaochun Ren__](http://ir.sdu.edu.cn/~zhaochunren/)  
 - Information extraction
 
