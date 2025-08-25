@@ -52,12 +52,10 @@ Chengdu, China
 - B.S. in Computer Science (2017)
 
 ## Reaserch Interests
-Membership inference attack <br>
 Knowledge graph <br>
 Graph neural network <br>
 Representation learning <br>
 Rule learning <br>
-Natural Language Processing <br>
 
 
 ## Publications
